@@ -3,8 +3,8 @@
 Data Analyst Seeking for a Job
 <img align="right" width="350" height="290" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">                                                
 - 🌱 I’m currently learning PowerBI ,Tableau ,R Programming
-- 👯 I’m looking to collaborate on Data Analytics Projects | Machine Learning Models | Data-Driven Applications
-- 🤔 I’m looking for help with Placements & Internship Opportunities in Data Analytics and Artificial Intelligence
+- 👯 I’m looking to collaborate on Data Analytics|AI|ML Projects 
+- 🤔 I’m looking for help with Placements & Internship Opportunities
 - 💬 Ask me about :  Data Analytics, Data Science, Machine Learning
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:swasthika19ms@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/m-s-swasthika/)
