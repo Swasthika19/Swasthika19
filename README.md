@@ -1,7 +1,7 @@
 ## Hi There 👋 It's me Swasthika M S
 
 Data Analyst Seeking for a Job
-<img align="right" width="400" height="290" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">                                                
+<img align="right" width="379" height="290" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">                                                
 - 🌱 I’m currently learning PowerBI ,Tableau ,R Programming
 - 👯 I’m looking to collaborate on Data Analytics Projects | Machine Learning Models | Data-Driven Applications
 - 🤔 I’m looking for help with Placements & Internship Opportunities in Data Analytics and Artificial Intelligence
